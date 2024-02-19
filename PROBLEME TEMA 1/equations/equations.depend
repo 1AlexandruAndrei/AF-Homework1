@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697740267 source:c:\andrei\facultate\anul 2 sem 1\af\laborator\probleme tema 1\equations\main.cpp
+	<iostream>
+	<vector>
+	<map>
+

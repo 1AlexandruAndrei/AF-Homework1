@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1698826574 source:c:\andrei\facultate\anul 2 sem 1\af\laborator\probleme tema 1\courseschedule\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<unordered_map>
+

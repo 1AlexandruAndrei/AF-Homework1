@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697889788 source:c:\andrei\facultate\anul 2 sem 1\af\laborator\probleme tema 1\shortestbridge\main.cpp
+	<vector>
+	<queue>
+	<iostream>
+
